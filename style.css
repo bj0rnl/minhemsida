@@ -44,11 +44,7 @@ footer {
   gap: 10px;
 }
 
-.photos-container > figure {
-  margin: 0;
-}
-
-.photos-container > figure > img {
+.photos-container > img {
   width: 100%;
 }
 
